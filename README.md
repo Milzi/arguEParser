@@ -6,7 +6,7 @@ This parser allows the user to parse certain argumentation corpora into a unifie
 2. The CE-EMNLP-15 corpus from the IBM Debating Technologies Datasets (https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml)
 3. Argument Annotated Essays (version 2) (https://www.ukp.tu-darmstadt.de/data/argumentation-mining/argument-annotated-essays-version-2/)
 
-These are the following steps for executing the parser:
+These are the steps for executing the parser:
 
 
 1. Download the project.
