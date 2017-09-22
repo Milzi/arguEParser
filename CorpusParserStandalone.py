@@ -1,6 +1,6 @@
-from arguEParser.Parsers import AIFParser as aif
-from arguEParser.Parsers import IBMCorpusParser as ibm
-from arguEParser.Parsers import BratParser as brat
+from Parsers import AIFParser as aif
+from Parsers import IBMCorpusParser as ibm
+from Parsers import BratParser as brat
 import os
 
 
