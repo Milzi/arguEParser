@@ -12,6 +12,6 @@ These are the steps for executing the parser:
 1. Download the project.
 2. Unpack the project to [your directory]
 3. Copy the corpora you want to parse into the folder [your directory]/arguEParser/inputCorpora
-  Make sure each dataset is in a seperate folder (e.g. AraucariaDB, IBM, RRD, Microtext)
+   a) Make sure each dataset is in a seperate folder (e.g. AraucariaDB, IBM, RRD, Microtext)
 4. Run the "CorpusParserStanalone.py" with python [your directory]/arguEParser/CorpusParserStanalone.py
 5. Find the output inside the outputCorpus directory.
